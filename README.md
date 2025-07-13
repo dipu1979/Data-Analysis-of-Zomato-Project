@@ -21,8 +21,8 @@ The Zomato project involves analyzing restaurant data to understand customer pre
 6)	 6) Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
 
 # Tools
-Pandas (Data manipulation & cleaning)
-NumPy (Numerical computations)
-Matplotlib & Seaborn (Data visualization)
+1. Pandas (Data manipulation & cleaning)
+2.NumPy (Numerical computations)
+3. Matplotlib & Seaborn (Data visualization)
 # Data Visualizations
 <img width="1451" height="9201" alt="Zomato project" src="https://github.com/user-attachments/assets/24b0a8ad-d5ed-497f-9cf1-a6d8a790b3e1" />
